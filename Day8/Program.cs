@@ -18,6 +18,8 @@ namespace Day8
 
             EmpSwitchCase.EmpolyeeWagSwitch();
 
+            EmpWageMonth.EmpolyeeWageMonth();
+
             Console.ReadLine();
         }
     }
