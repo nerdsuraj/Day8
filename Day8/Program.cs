@@ -16,6 +16,8 @@ namespace Day8
 
             EmpPartWage.EmpolyeeWagePart();
 
+            EmpSwitchCase.EmpolyeeWagSwitch();
+
             Console.ReadLine();
         }
     }
