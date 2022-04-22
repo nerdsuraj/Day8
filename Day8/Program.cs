@@ -24,6 +24,10 @@ namespace Day8
 
             EmpWageClass.EmpolyeeWageClass();
 
+            Console.WriteLine("from here line comparison code will goes on.....");
+
+            LineBtwTwoPoints.lengthBtwPoints();
+
             Console.ReadLine();
         }
     }
