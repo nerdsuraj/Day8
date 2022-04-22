@@ -20,6 +20,8 @@ namespace Day8
 
             EmpWageMonth.EmpolyeeWageMonth();
 
+            EmpTotalMonth.EmpolyeeTotalMonth();
+
             Console.ReadLine();
         }
     }
