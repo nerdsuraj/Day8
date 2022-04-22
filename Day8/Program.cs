@@ -30,6 +30,8 @@ namespace Day8
 
             LineEqual.IsEqual();
 
+            LineCompare.compareTo();
+
             Console.ReadLine();
         }
     }
