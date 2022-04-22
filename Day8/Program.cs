@@ -28,6 +28,8 @@ namespace Day8
 
             LineBtwTwoPoints.lengthBtwPoints();
 
+            LineEqual.IsEqual();
+
             Console.ReadLine();
         }
     }
