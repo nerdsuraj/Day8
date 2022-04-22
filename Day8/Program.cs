@@ -14,6 +14,8 @@ namespace Day8
 
             DailyEmpWage.Empolyeewage();
 
+            EmpPartWage.EmpolyeeWagePart();
+
             Console.ReadLine();
         }
     }
