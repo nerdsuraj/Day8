@@ -11,6 +11,7 @@ namespace Day8
         static void Main(string[] args)
         {
             EmpPresent.EmpolyeeWage();
+
             Console.ReadLine();
         }
     }
